@@ -15,7 +15,7 @@
             compatible = "zmk,combos";
 
             switch_sp_en {
-                bindings = <&tg 4>;
+                bindings = <&tog 4>;
                 key-positions = <41 14 10>;
             };
         };
