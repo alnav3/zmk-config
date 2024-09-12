@@ -94,7 +94,7 @@
         sp_shift_layer {
             bindings = <
     &trans  &kp LS(Q)  &kp LS(W)  &kp LS(E)  &kp LS(R)  &kp LS(T)    &kp LS(Y)  &kp LS(U)  &kp LS(I)  &kp LS(O)      &kp LS(P)      &trans
-    &trans  &kp LS(A)  &kp LS(S)  &kp LS(D)  &kp LS(F)  &kp LS(G)    &kp LS(H)  &kp LS(J)  &kp LS(K)  &kp LS(L)      &kp LS(DOT)    &kp LS(SLASH)
+    &trans  &kp LS(A)  &kp LS(S)  &kp LS(D)  &kp LS(F)  &kp LS(G)    &kp LS(H)  &kp LS(J)  &kp LS(K)  &kp LS(L)      &kp LS(DOT)    &kp LS(N2)
     &trans  &kp LS(Z)  &kp LS(X)  &kp LS(C)  &kp LS(V)  &kp LS(B)    &kp LS(N)  &kp LS(M)  &kp GRAVE  &kp LS(TILDE)  &kp LS(UNDER)  &trans
                               &trans     &trans     &trans       &trans     &trans     &trans
             >;
@@ -108,7 +108,7 @@
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
    &kp  TAB  &kp LS(N1) &kp RA(N2) &kp RA(N3) &kp LS(N4) &kp LS(N5)   &kp LS(LBKT) &kp LS(N6)  &kp LS(RBKT) &kp LS(N8) &kp LS(N9) &kp BSPC
-   &kp LCTRL &trans   &trans &trans   &trans   &trans      &kp SLASH &kp LS(N0) &kp RA(LBKT) &kp RA(RBKT) &kp BSLH &kp GRAVE
+   &kp LCTRL &trans   &trans &trans   &trans   &trans      &kp SLASH &kp LS(N0) &kp RA(LBKT) &kp RA(RBKT) &kp RA(GRAVE) &kp GRAVE
    &kp LSHFT &trans   &trans &trans   &trans   &trans      &kp LS(SLASH) &kp RBKT  &kp RA(APOS) &kp RA(BACKSLASH) &kp RA(N1) &kp RA(N4)
                              &kp LGUI &trans   &kp SPACE   &kp RET   &trans    &kp LALT
                         >;
