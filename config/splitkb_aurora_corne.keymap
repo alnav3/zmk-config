@@ -108,7 +108,7 @@
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
    &kp  TAB  &kp LS(N1) &kp RA(N2) &kp RA(N3) &kp LS(N4) &kp LS(N5)   &kp LS(LBKT) &kp LS(N6)  &kp LS(RBKT) &kp LS(N8) &kp LS(N9) &kp BSPC
-   &kp LCTRL &trans   &trans &trans   &trans   &trans      &kp SLASH &kp LS(N0) &kp RA(LBKT) &kp RA(RBKT) &kp RA(GRAVE) &kp SQT
+   &kp LCTRL &trans   &trans &trans   &trans   &trans      &kp SLASH &kp LS(N0) &kp RA(LBKT) &kp RA(RBKT) &kp RA(GRAVE) &kp LBKT
    &kp LSHFT &trans   &trans &trans   &trans   &trans      &kp LS(SLASH) &kp RBKT  &kp RA(APOS) &kp RA(BACKSLASH) &kp RA(N1) &kp RA(N4)
                              &kp LGUI &trans   &kp SPACE   &kp RET   &trans    &kp LALT
                         >;
